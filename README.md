@@ -1,23 +1,23 @@
-## I'm Daniela Tamez 
-
+## I'm Daniela Tamez 💖
 
 
 [![Email Me](https://img.shields.io/badge/Email-danileatamez6@gmail.com-BB001B.svg)](mailto:danielatamez6@gmail.com)
 
-Undergraduate student @Tec de Monterrey, majoring in Computer Science and Technology. _(she/her)_
+Hi, I'm Daniela! _(she/her)_ 
 
-Hi, I'm Daniela! I'm a student and Technical Intern @Kalypso: A Rockwell Automation Business
+I'm an Undergraduate student @Tec de Monterrey, majoring in Computer Science and Technology and currinly I am a Technical Intern @Kalypso: A Rockwell Automation Business. besides having a passion for learning about new technologies, I also have interest for artistic expression, problem solving, and improving my leader and communication skills. 
 
 I'm currently president and founder of a Student Group called Tint, the group seeks to promote artistic expression, mainly writing and visual arts through artistic publications in order to create a space for artists to share their work with the rest of the student community.
 
 I was also Mentor and Mentoring Coordinator for Sacbé STEM social service, a program that seeks to inspire female high school students to study careers in STEM through personalized advising and workshops that develop their personal and professional vision
 
 
-##Areas of Expertise
+## Areas of Expertise
 
 * 💻 **Web Development**: Front-end and Back-end development
 * ⚛️ **Mobile Development**: IOS mobile developer 
 * 🤝 **Volunteering**: I like to mentor highschool girls to promote women participation in STEM
+
 
 ### Visible School Projects
 
