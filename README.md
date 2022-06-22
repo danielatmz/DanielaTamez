@@ -68,13 +68,13 @@ I was also Mentor and Mentoring Coordinator for Sacbé STEM social service, a pr
       <th>Information Systems And Technology Intern</th>
       <td>Business Analysis - Implementation of digital platforms and databases for customer management, support and service to internal customers through Salesforce.</td>
       <td>Mary Kay México</td>
-      <td>10.2021 - 03.2022</td>
+      <td>10.2021  03.2022</td>
     </tr>
     <tr>
       <th>Technical Intern</th>
       <td> Testing - Creation of testing scripts, PTC Windchill sowftware</td>
       <td>Kalypso</td>
-      <td>06.2022 - present</td>
+      <td>06.2022  present</td>
     </tr>   
   </tbody>
 </table>
