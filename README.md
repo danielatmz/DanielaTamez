@@ -5,7 +5,7 @@
 
 Hi, I'm Daniela! _(she/her)_ 
 
-I'm an Undergraduate student @Tec de Monterrey, majoring in Computer Science and Technology and currently I am a Technical Intern @Kalypso: A Rockwell Automation Business. Besides having a passion for learning about new technologies, I also have interest for artistic expression, problem solving, and improving my leader and communication skills. 
+I'm an Undergraduate student @Tec de Monterrey, majoring in Computer Science and Technology and currently I am a **Technical Intern @Kalypso: A Rockwell Automation Business**. Besides having a passion for learning about new technologies, I also have interest for artistic expression, problem solving, and improving my leader and communication skills. 
 
 I'm president and founder of a Student Group called Tint, the group seeks to promote artistic expression, mainly writing and visual arts through artistic publications in order to create a space for artists to share their work with the rest of the student community.
 
