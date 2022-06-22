@@ -64,8 +64,6 @@ I was also Mentor and Mentoring Coordinator for Sacbé STEM social service, a pr
     <th>Role Description </th>
     <th>Company </th>
     <th>Date 📅</th>
-  </thead>
-  <tbody>
     <tr>
       <th>Information Systems And Technology Intern</th>
       <td>Business Analysis - Implementation of digital platforms and databases for customer management, support and service to internal customers through Salesforce.</td>
