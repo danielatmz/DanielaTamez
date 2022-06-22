@@ -70,13 +70,11 @@ I was also Mentor and Mentoring Coordinator for Sacbé STEM social service, a pr
       <td>Mary Kay México</td>
       <td>10.2021 - 03.2022</td>
     </tr>
-    
-       <tr>
+    <tr>
       <th>Technical Intern</th>
       <td> Testing - Creation of testing scripts, PTC Windchill sowftware</td>
       <td>Kalypso</td>
       <td>06.2022 - present</td>
-    </tr>
-    
+    </tr>   
   </tbody>
 </table>
