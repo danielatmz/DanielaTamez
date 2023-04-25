@@ -14,7 +14,7 @@ I was also Mentor and Mentoring Coordinator for Sacbé STEM social service, a pr
 
 ## Areas of Expertise
 
-* 💻 **Web Development**: Front-end and Back-end development
+* 💻 **Web Development**: Java Developer, Front-end and Back-end development
 * ⚛️ **Mobile Development**: IOS mobile developer 
 * 🤝 **Volunteering**: I like to mentor highschool girls to promote women participation in STEM
 
